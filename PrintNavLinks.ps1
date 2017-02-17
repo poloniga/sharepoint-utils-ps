@@ -33,4 +33,4 @@ function PrintNavLinks($siteUrl){
      }
 }
 
-PrintNavLinks "site гкд"
+PrintNavLinks "site url"
